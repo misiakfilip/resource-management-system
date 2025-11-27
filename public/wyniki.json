@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "1",
+        "nazwa": "Projekt A",
+        "Data Rozpocz\u0119cia": "2023-01-01",
+        "Data Zako\u0144czenia": "2023-03-31",
+        "kierownik": "Anna Nowak"
+    },
+    {
+        "ID": "2",
+        "nazwa": "Projekt B",
+        "Data Rozpocz\u0119cia": "2023-02-15",
+        "Data Zako\u0144czenia": "2023-05-15",
+        "kierownik": "Piotr D\u0105browski"
+    },
+    {
+        "ID": "4",
+        "nazwa": "Projekt D",
+        "Data Rozpocz\u0119cia": "2024-01-01",
+        "Data Zako\u0144czenia": "0000-00-00",
+        "kierownik": "Jan Kowalski"
+    },
+    {
+        "ID": "5",
+        "nazwa": "nowy projekty 2",
+        "Data Rozpocz\u0119cia": "2024-01-01",
+        "Data Zako\u0144czenia": "2024-01-14",
+        "kierownik": "Anna Nowak"
+    }
+]

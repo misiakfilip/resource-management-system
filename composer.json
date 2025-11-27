@@ -1,0 +1,11 @@
+{
+    "name": "filip/projekt-zaliczeniowy",
+    "autoload": {
+        "psr-4": {
+            "Filip\\ProjektZaliczeniowy\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
