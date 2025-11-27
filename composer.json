@@ -1,11 +1,16 @@
 {
-    "name": "filip/projekt-zaliczeniowy",
+    "name": "rms/resource-management-system",
+    "description": "A simple Resource Management System in PHP with PDF generation",
+    "type": "project",
     "autoload": {
         "psr-4": {
-            "Filip\\ProjektZaliczeniowy\\": "src/"
+            "ResourceManagementSystem\\": "src/"
         }
     },
     "require": {
         "dompdf/dompdf": "^2.0"
-    }
+    },
+    "require-dev": {},
+    "minimum-stability": "stable",
+    "license": "MIT"
 }
