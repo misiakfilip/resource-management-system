@@ -3,21 +3,16 @@ This project is a simple **Resource Management System** (RMS) built in PHP. It a
 
 ## Project Structure
 
+```
 resource-management-system/
 │
-
 ├── public/ # Publicly accessible files (index.php, assets)
-
 ├── src/ # PHP source code
-
 ├── vendor/ # Composer dependencies (auto-generated)
-
 ├── composer.json # Composer configuration
-
 ├── composer.lock # Composer lock file
-
 └── README.md # Project documentation
-
+```
 
 
 ## Installation
